@@ -1,0 +1,23 @@
+{
+  "name": "virtwebapp",
+  "version": "1.0.0",
+  "description": "web app for VIDK",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SimonasValkiunas/VirtWebApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SimonasValkiunas/VirtWebApp/issues"
+  },
+  "homepage": "https://github.com/SimonasValkiunas/VirtWebApp#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^8.2.1"
+  }
+}
