@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/SimonasValkiunas/VirtWebApp#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "pg": "^8.2.1"
   }
 }
